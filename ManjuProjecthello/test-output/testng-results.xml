@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8766" started-at="2020-01-29T18:35:26 EST" finished-at="2020-01-29T18:35:35 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8766" started-at="2020-01-29T18:35:26 EST" finished-at="2020-01-29T18:35:35 EST">
+      <class name="ReportPkg.reportclass">
+        <test-method status="PASS" signature="Fr1Test1()[pri:0, instance:ReportPkg.reportclass@60db1c0e]" name="Fr1Test1" duration-ms="8259" started-at="2020-01-29T18:35:26 EST" finished-at="2020-01-29T18:35:35 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Fr1Test1 -->
+        <test-method status="PASS" signature="Fr1Test2()[pri:0, instance:ReportPkg.reportclass@60db1c0e]" name="Fr1Test2" duration-ms="300" started-at="2020-01-29T18:35:35 EST" finished-at="2020-01-29T18:35:35 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Fr1Test2 -->
+        <test-method status="PASS" signature="beforeexit()[pri:0, instance:ReportPkg.reportclass@60db1c0e]" name="beforeexit" is-config="true" duration-ms="179" started-at="2020-01-29T18:35:35 EST" finished-at="2020-01-29T18:35:35 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeexit -->
+      </class> <!-- ReportPkg.reportclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
